@@ -1,5 +1,5 @@
-# Python a fondo - Domine el lenmguaje del presente y del futuro
-Repositorio con notas del libro *Python a fondo - Domine el lenmguaje del presente y del futuro* de Oscar Ramirez Jumenez
+# Python a fondo - Domine el lenguaje del presente y del futuro
+Repositorio con notas del libro *Python a fondo - Domine el lenguaje del presente y del futuro* de Oscar Ramirez Jumenez
 
 1. __cap1-introduccion_al_lenguaje_python__
     * __Introduccion a Jupyter Notebook.ipynb__ Se implementa un notebook con algunas pruebas basicas.
